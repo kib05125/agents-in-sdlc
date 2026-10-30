@@ -104,7 +104,7 @@ agent skill の助けを借りて、文書化された要件に沿う新しい P
 - AI agent がどのように skill を利用するかを学ぶ。
 - skill の助けを借りて、ガイドラインに沿った PR を作成する。
 
-skill はタスク向けに最適ですが、より高度な作業には [カスタム エージェント][next-lesson] を活用したくなります。次はそれを確認しましょう。
+skill は繰り返し実行するタスクに役立ちます。次は [Playwright MCP サーバー][next-lesson] を使って、Copilot にブラウザーから機能を確認させましょう。
 
 ## リソース
 
@@ -113,7 +113,7 @@ skill はタスク向けに最適ですが、より高度な作業には [カス
 - [Agent Skills リポジトリ][agent-skills-repo]
 - [awesome-copilot の Agent Skills][awesome-copilot-skills]
 
-[previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[previous-lesson]: ../4-custom-instructions/
+[next-lesson]: ../6-mcp-playwright/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills
